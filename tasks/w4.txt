@@ -1,0 +1,10 @@
+- Java Servlet: 
++ https://www.tutorialspoint.com/servlets/index.htm 
++ https://www.javatpoint.com/servlet-tutorial
+
+- Demo 1: app login
++ Open browser to: localhost
++ Showing a web page contains: username, password, a login button.
++ If username='a', password='1', show  webpage writing "login successfully".
++ Else: show web page writing "login failed, please retry".
++ Demo: abc.com

@@ -1,0 +1,27 @@
+Nhom 24
+- jira: sinh vien nao cung thay dc task
+- lab technical:
++ http rest api
++ android: 
++ server: servlet
++ nam, thang: di tre
+
+
+Nhom 25:
+- java servlet 
+- Di du
+
+Nhom 26:
+- Chon database ntn ?
+-
+Nhom 27:
+- 
+
+- Nhom 28:
++ Chi lam app android client
+
+- Nhom 29:
++ Truong bao luu ?
++ Viet python
++ Dung django 
++ Chi co Lam biet ve python, django
